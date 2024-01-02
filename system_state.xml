@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<system_states>
+    <state>
+		<infected_asset>Asset.Infotainment_Gateway</infected_asset>
+		<affected_asset>Asset.Infotainment_Gateway</affected_asset>
+		<intrusion_result>AttackResult.Information_Disclosure</intrusion_result>
+	</state>
+	<!--<state>
+		<infected_asset>Asset.OBD_II</infected_asset>
+		<affected_asset>Asset.DoIP</affected_asset>
+		<intrusion_result>AttackResult.Falsify_Alter_Information</intrusion_result>
+	</state>-->
+</system_states>
