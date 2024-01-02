@@ -1,5 +1,7 @@
-IRS for connected and autonomous vehicles
+Dynamic IRS for connected and autonomous vehicles
 =========================================
+## Contributors
+The main author of this code is Michael Kühr.  This code was written  to demonstrate the research paper "REACT: Dynamic Intrusion Response System for connected and autonomous vehicles" 
 
 ## System requirements
 The following software is required in advance to use this IRS:
